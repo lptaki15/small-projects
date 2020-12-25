@@ -1,2 +1,2 @@
 # small-projects
-small data science projects that I've worked on
+small data analytics projects that I've worked on
